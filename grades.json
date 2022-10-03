@@ -1,8 +1,3 @@
-I am looking to create a static JSON api, and host it on GitHub Pages so it can be used publicly. From my understanding, all I need is a JSON file with my data, and once I publish it to GitHub pages, it will be accessible from this URL:
-
-http://username.github.io/repo_name/json_file_name
-This is my JSON file, with some of the data.
-
 [
   {
     "id": "0001",
